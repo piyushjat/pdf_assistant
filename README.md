@@ -19,14 +19,14 @@ An end-to-end implementation of the GPT-2 transformer architecture from scratch 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/thenameisjaat/research-paper-assistant.git](https://github.com/thenameisjaat/research-paper-assistant.git)
+   git clone https://github.com/piyushjat/research-paper-assistant.git
    cd research-paper-assistant
 
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
 
-3. (Optional) Install and start Ollama locally for automated response evaluation.
+3. (Optional) Install and start Ollama locally for automated response evaluation.For this the code is given in the Project.ipynb file before stage2 code cell
 
 
 ## Project Pipeline
